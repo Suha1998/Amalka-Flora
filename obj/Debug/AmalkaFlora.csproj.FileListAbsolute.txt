@@ -1,0 +1,63 @@
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\bin\Debug\AmalkaFlora.exe.config
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.csprojResolveAssemblyReference.cache
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.Interface2.resources
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.Properties.Resources.resources
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.csproj.GenerateResource.Cache
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\bin\Debug\AmalkaFlora.exe
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\bin\Debug\AmalkaFlora.pdb
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.exe
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.pdb
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.login.resources
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\bin\Debug\MySql.Data.DLL
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.customerRegister.resources
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.systemOperation.resources
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.AdminLogin.resources
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.ManagerLogin.resources
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.ManageSystem.resources
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.AddEmployee.resources
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.ManageEmp.resources
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.EditEmployee.resources
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.SelectEmp.resources
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.OrderFlower.resources
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.AddFlowerItems.resources
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.EditFlowerProducts.resources
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.InsertUpdateDeleteFlower.resources
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\bin\Debug\S22.Imap.dll
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.MaterialEmail.resources
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.Calculate_Price.resources
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.carDeco_main.resources
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.FlowerBouquets.resources
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.OrderNow.resources
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.ProductView_main.resources
+C:\Users\windows\Desktop\SLIIT 2nd Year\2nd Semester\PPA\Project\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.SendingMails.resources
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\bin\Debug\AmalkaFlora.exe.config
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.exe
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.pdb
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\bin\Debug\AmalkaFlora.exe
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\bin\Debug\AmalkaFlora.pdb
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\bin\Debug\S22.Imap.dll
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.csprojResolveAssemblyReference.cache
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.AddEmployee.resources
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.AddFlowerItems.resources
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.AdminLogin.resources
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.Calculate_Price.resources
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.carDeco_main.resources
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.customerRegister.resources
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.EditEmployee.resources
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.EditFlowerProducts.resources
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.FlowerBouquets.resources
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.InsertUpdateDeleteFlower.resources
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.login.resources
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.Interface2.resources
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.ManageEmp.resources
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.ManagerLogin.resources
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.ManageSystem.resources
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.MaterialEmail.resources
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.OrderFlower.resources
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.OrderNow.resources
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.ProductView_main.resources
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.Properties.Resources.resources
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.SelectEmp.resources
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.SendingMails.resources
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.systemOperation.resources
+C:\Users\Win 10\Desktop\AmalkaFlora\AmalkaFlora\obj\Debug\AmalkaFlora.csproj.GenerateResource.Cache
